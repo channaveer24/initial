@@ -9,10 +9,11 @@
   padding: 0;
 }
 .container {
-  border: 2px solid red;
-  margin: 3px 0;
+  border: 2px solid black;
+  margin: 20px 0;
   background: rgba(243, 32, 32, 0.783);
   padding: 9px;
+  align-items: center;
 }
 .bg-primary {
   background-color: rgb(220, 90, 39);
